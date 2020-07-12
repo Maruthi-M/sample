@@ -8,6 +8,7 @@ public static void main(String args[])
 	{
 		System.out.print(i+",");
 	}
+	//while loop
 	while(j<=10)
 	{
 		System.out.print(j);
