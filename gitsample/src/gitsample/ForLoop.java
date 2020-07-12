@@ -10,7 +10,7 @@ public static void main(String args[])
 	}
 	while(j<=10)
 	{
-		System.out.println(j);
+		System.out.print(j);
 		j++;
 	}
 }
