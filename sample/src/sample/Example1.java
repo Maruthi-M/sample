@@ -1,5 +1,6 @@
 package sample;
 //sample program for stdout
+//new comment added
 public class Example1 {
 	public static void main(String args[])
 	{
